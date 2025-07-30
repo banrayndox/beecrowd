@@ -1,3 +1,5 @@
+//1973
+
 #include<stdio.h>
 #include<string.h>
 #define MAX 1000001
